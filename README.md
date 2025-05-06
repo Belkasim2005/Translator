@@ -10,7 +10,7 @@
 
 ## 🖼️ لقطة شاشة للواجهة
 
-![واجهة التطبيق](1ddd3ee7-4f89-4a57-8cf9-70f917b85d47.png)
+https://github.com/Belkasim2005/Translator/blob/main/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202025-05-06%20221019.png?raw=true
 
 ## 🔗 رابط الكود
 [Google Colab](https://colab.research.google.com/drive/1elC9kVHwW5Uh3X0kWv_zGfkicwSljBTp?usp=sharing)
